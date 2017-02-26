@@ -1,0 +1,65 @@
+.background {
+  background-color: rgb(104, 187, 285);
+  padding: 0px 20px;
+}
+
+.site-header {
+  background-color: rgb(9, 30, 45);
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.left-box {
+background-color: rgb(9, 30, 45);
+color: white;
+}
+
+.photo {
+  margin-bottom: 15px;
+  padding: 15px 50px;
+}
+
+.contact {
+  padding-top: 15px;
+}
+
+.info{
+  margin: 25px 0px;
+  padding: 15px 0px;
+  border: 1px solid black;
+}
+
+h5 {
+  text-align: center;
+}
+
+.right-box {
+  background-color: rgb(9, 30, 45);
+  color: white;
+}
+
+.experience-box {
+  text-align: center;
+}
+
+.experience {
+  padding-left: 70px;
+}
+
+.studies-box{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.study {
+  padding-left: 25px;
+}
+
+.site-footer{
+background-color: rgb(9, 30, 45);
+text-align: center;
+color: white;
+margin-top: 15px;
+padding: 15px 0px;
+}
